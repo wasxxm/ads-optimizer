@@ -1,0 +1,62 @@
+Date,"User loss (All users, All events, Per interval, Daily): All countries / regions","User loss (All users, All events, Per interval, Daily): India","User loss (All users, All events, Per interval, Daily): South Africa","User loss (All users, All events, Per interval, Daily): France","User loss (All users, All events, Per interval, Daily): Pakistan",Notes
+"Oct 1, 2023",336,131,21,6,14,
+"Oct 2, 2023",344,112,16,8,29,
+"Oct 3, 2023",355,121,21,11,7,Rollout of release: Started rollout of 91 (3.975) at 20%.
+"Oct 4, 2023",312,106,22,7,13,
+"Oct 5, 2023",405,151,21,9,14,
+"Oct 6, 2023",367,141,27,12,13,
+"Oct 7, 2023",325,125,17,9,10,
+"Oct 8, 2023",304,108,13,11,16,
+"Oct 9, 2023",362,134,26,5,15,
+"Oct 10, 2023",343,133,14,8,16,
+"Oct 11, 2023",371,127,23,14,14,
+"Oct 12, 2023",390,137,20,8,8,Rollout of release: Started rollout of 92 (3.98) at 100%. Rollout of release: Halted rollout of 91 (3.975).
+"Oct 13, 2023",379,119,28,8,18,
+"Oct 14, 2023",358,106,19,9,19,
+"Oct 15, 2023",370,119,18,4,18,
+"Oct 16, 2023",379,121,15,18,13,
+"Oct 17, 2023",380,136,24,11,10,
+"Oct 18, 2023",328,92,20,13,15,Rollout of release: Started rollout of 93 (3.985) at 100%.
+"Oct 19, 2023",377,110,19,16,13,
+"Oct 20, 2023",394,123,29,20,20,Rollout of release: Started rollout of 94 (3.995) at 100%.
+"Oct 21, 2023",348,99,15,13,17,
+"Oct 22, 2023",376,85,25,18,12,Rollout of release: Started rollout of 95 (4.00) at 20%.
+"Oct 23, 2023",411,97,24,15,13,Rollout of release: Halted rollout of 95 (4.00). Rollout of release: Started rollout of 96 (4.10) at 100%.
+"Oct 24, 2023",480,90,35,20,16,
+"Oct 25, 2023",543,152,27,26,15,Rollout of release: Started rollout of 97 (4.15) at 100%.
+"Oct 26, 2023",503,161,22,23,18,
+"Oct 27, 2023",469,121,37,23,17,
+"Oct 28, 2023",384,98,16,15,18,
+"Oct 29, 2023",353,90,20,18,14,Rollout of release: Started rollout of 98 (4.16) at 100%. Rollout of release: Started rollout of 99 (4.17) at 100%. Rollout of release: Started rollout of 100 (4.18) at 100%.
+"Oct 30, 2023",373,110,18,21,21,
+"Oct 31, 2023",397,116,17,24,16,Rollout of release: Started rollout of 110 (4.191) at 100%. Rollout of release: Started rollout of 113 (4.193) at 100%.
+"Nov 1, 2023",400,108,20,22,12,
+"Nov 2, 2023",410,94,16,23,10,
+"Nov 3, 2023",455,119,21,29,18,
+"Nov 4, 2023",435,125,33,31,9,
+"Nov 5, 2023",373,90,26,14,11,Rollout of release: Started rollout of 116 (4.196) at 100%.
+"Nov 6, 2023",451,137,34,25,9,Rollout of release: Started rollout of 117 (4.197) at 100%.
+"Nov 7, 2023",372,95,24,22,18,
+"Nov 8, 2023",395,97,35,23,11,
+"Nov 9, 2023",407,109,23,24,14,
+"Nov 10, 2023",355,98,26,29,7,
+"Nov 11, 2023",322,70,19,19,10,
+"Nov 12, 2023",348,70,18,26,12,
+"Nov 13, 2023",369,83,22,24,18,
+"Nov 14, 2023",442,94,23,29,23,
+"Nov 15, 2023",409,118,31,22,17,
+"Nov 16, 2023",383,92,20,28,14,
+"Nov 17, 2023",352,96,21,16,10,
+"Nov 18, 2023",380,95,22,25,16,Rollout of release: Started rollout of 118 (4.198) at 100%. Rollout of release: Started rollout of 119 (4.199) at 100%.
+"Nov 19, 2023",386,109,19,25,17,
+"Nov 20, 2023",354,88,19,26,7,
+"Nov 21, 2023",352,101,26,14,7,Rollout of release: Started rollout of 121 (4.200) at 100%.
+"Nov 22, 2023",437,114,26,21,13,
+"Nov 23, 2023",444,100,17,22,17,
+"Nov 24, 2023",449,107,22,19,11,
+"Nov 25, 2023",390,88,31,20,7,Rollout of release: Started rollout of 123 (4.250) at 20%.
+"Nov 26, 2023",361,85,23,33,8,
+"Nov 27, 2023",440,105,19,18,8,Rollout of release: Halted rollout of 123 (4.250).
+"Nov 28, 2023",450,132,32,29,9,Rollout of release: Started rollout of 131 (4.257) at 20%.
+"Nov 29, 2023",480,115,26,24,10,Rollout of release: Increased rollout of 131 (4.257) to 100%.
+"Nov 30, 2023",459,101,32,28,17,
